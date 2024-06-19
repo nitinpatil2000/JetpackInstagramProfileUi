@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetpackInstagramApp</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="reel">Reels</string>
+    <string name="igtv">IGTV</string>
+    <string name="profile">Profile</string>
+</resources>
